@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z catagory test/test.md",
+                "file": "z catagory test/testjhjdhdj.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z catagory test/test.md",
+                "file": "z catagory test/testjhjdhdj.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z catagory test/test.md",
+                "file": "z catagory test/testjhjdhdj.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z catagory test/test.md"
+                "file": "z catagory test/testjhjdhdj.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bd7623bd7ca8b5a1",
+  "active": "4ecd18fe9784e43a",
   "lastOpenFiles": [
-    "home.md"
+    "home.md",
+    "z catagory test/testjhjdhdj.md"
   ]
 }
