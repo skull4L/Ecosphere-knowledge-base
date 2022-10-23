@@ -35,11 +35,13 @@
           {
             "id": "bd7623bd7ca8b5a1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -139,6 +141,6 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "95d11d5eab0c39af",
+  "active": "bd7623bd7ca8b5a1",
   "lastOpenFiles": []
 }
