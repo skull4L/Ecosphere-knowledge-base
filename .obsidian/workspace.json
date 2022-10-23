@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17a15978cb0b7256",
+        "id": "6e4bddf545517a36",
         "type": "tabs",
         "children": [
           {
-            "id": "95d11d5eab0c39af",
+            "id": "b8cf14b3e54eb967",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,5 +140,7 @@
     "mostRecentAction": ""
   },
   "active": "bd7623bd7ca8b5a1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "home.md"
+  ]
 }
