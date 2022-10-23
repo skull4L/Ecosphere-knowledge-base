@@ -6,7 +6,7 @@ publish = "public"
 # (Optional) Text in landing page button
 LANDING_BUTTON = "Browse knowledge base"
 # (Optional) Site description on landing page
-LANDING_DESCRIPTION = "Aimed to be a comprehensive knowledge base on closed ecosystems"
+LANDING_DESCRIPTION = "Aimed to function as a comprehensive knowledge base for closed ecosystems"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
 LANDING_PAGE = "home"
 # (Optional) Site title on landing page

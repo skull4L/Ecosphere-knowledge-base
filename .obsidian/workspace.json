@@ -35,13 +35,11 @@
           {
             "id": "bd7623bd7ca8b5a1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "pinned": true
+              }
             }
           },
           {
