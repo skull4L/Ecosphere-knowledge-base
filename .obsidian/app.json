@@ -3,5 +3,6 @@
     "ecosphere",
     "ecospheres"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
