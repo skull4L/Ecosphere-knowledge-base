@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,158 @@
             "id": "4ecd18fe9784e43a",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Ecology of the Planted Aquarium - Diana Walstad.pdf"
+              }
+            }
+          },
+          {
+            "id": "c22bef6d7a52f42f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "resources.md",
+                "file": "Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f506f98a5bb9005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Lighting and temperature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af0d57ba1b824b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terrestrial/Soil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c6bfb7d51dd8f085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Lighting and temperature.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebecff6e57113109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Sediment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa8c9531923e1ffa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terrestrial/Watering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c14f7a1394f420a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Water bodies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d39016d3abd405a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9353dee254732ad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terrestrial/Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a85d7be7048f19e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c90c57e7ea70c3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Getting started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ea2bcbdb45998d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -98,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "resources.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "resources.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +280,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "resources.md"
+                "file": "Home.md"
               }
             }
           }
@@ -152,13 +294,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4ecd18fe9784e43a",
+  "active": "4ea2bcbdb45998d7",
   "lastOpenFiles": [
-    "Ecology of the Planted Aquarium - Diana Walstad.pdf",
-    "resources.md",
-    "organism identification.pdf",
-    "blue.png",
-    "home.md",
-    "z catagory test/testjhjdhdj.md"
+    "Terrestrial/Lighting and temperature.md",
+    "Terrestrial/Watering.md",
+    "Terrestrial/Getting started.md",
+    "Terrestrial/Containers.md",
+    "Home.md",
+    "Aquatic/Getting started.md",
+    "Resources.md",
+    "Terrestrial/Soil.md",
+    "Aquatic/Lighting and temperature.md",
+    "Aquatic/Containers.md"
   ]
 }
