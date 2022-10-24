@@ -8,5 +8,5 @@ Please note that as of writing this is extremely WIP!
 ## Pages to visit:
 
 >[[Resources]]
->[[Aquatic/Getting started]]
->[[Terrestrial/Getting started]]
+>[[Aquatic/Basics]]
+>[[Terrestrial/Basics]]

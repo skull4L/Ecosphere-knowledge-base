@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Lighting and temperature.md",
+                "file": "Aquatic/Lighting.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Lighting and temperature.md",
+                "file": "Aquatic/Lighting.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Getting started.md",
+                "file": "Aquatic/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Getting started.md",
+                "file": "Aquatic/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Animals/Animals.md",
+                "file": "Aquatic/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -288,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aquatic/Animals/Animals.md",
+                "file": "Aquatic/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aquatic/Animals/Animals.md",
+                "file": "Aquatic/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aquatic/Animals/Animals.md"
+                "file": "Aquatic/Basics.md"
               }
             }
           }
@@ -344,15 +344,15 @@
   },
   "active": "dfeb2089f1a98f79",
   "lastOpenFiles": [
-    "Aquatic/Getting started.md",
-    "Aquatic/Sourcing organisms.md",
-    "Aquatic/Sediment.md",
-    "Home.md",
     "Aquatic/Containers.md",
-    "Aquatic/Plants/Plants.md",
+    "Aquatic/Basics.md",
+    "Terrestrial/Lighting.md",
+    "Aquatic/Sediment.md",
+    "Aquatic/Lighting.md",
+    "Home.md",
+    "Terrestrial/Basics.md",
+    "Resources.md",
     "Aquatic/Animals/Animals.md",
-    "Terrestrial/Animals/Animals.md",
-    "Terrestrial/Plants/Plants.md",
-    "Terrestrial/Lighting and temperature.md"
+    "Aquatic/Sourcing organisms.md"
   ]
 }
