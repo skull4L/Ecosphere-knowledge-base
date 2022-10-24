@@ -167,14 +167,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Aquatic/Getting started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5f747a7ba4a4f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Plants/Plants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28eefcd60ef9ac16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terrestrial/Plants/Plants.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1a0213a7bd43c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terrestrial/Animals/Animals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfeb2089f1a98f79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aquatic/Animals/Animals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -240,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Aquatic/Animals/Animals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Aquatic/Animals/Animals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -280,7 +328,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Aquatic/Animals/Animals.md"
               }
             }
           }
@@ -294,17 +342,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4ea2bcbdb45998d7",
+  "active": "dfeb2089f1a98f79",
   "lastOpenFiles": [
-    "Terrestrial/Lighting and temperature.md",
-    "Terrestrial/Watering.md",
-    "Terrestrial/Getting started.md",
-    "Terrestrial/Containers.md",
-    "Home.md",
     "Aquatic/Getting started.md",
-    "Resources.md",
-    "Terrestrial/Soil.md",
-    "Aquatic/Lighting and temperature.md",
-    "Aquatic/Containers.md"
+    "Aquatic/Sourcing organisms.md",
+    "Aquatic/Sediment.md",
+    "Home.md",
+    "Aquatic/Containers.md",
+    "Aquatic/Plants/Plants.md",
+    "Aquatic/Animals/Animals.md",
+    "Terrestrial/Animals/Animals.md",
+    "Terrestrial/Plants/Plants.md",
+    "Terrestrial/Lighting and temperature.md"
   ]
 }
