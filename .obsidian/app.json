@@ -4,5 +4,10 @@
     "ecospheres"
   ],
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "en-GB"
+  ]
 }
