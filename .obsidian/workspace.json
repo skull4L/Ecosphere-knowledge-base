@@ -23,12 +23,8 @@
             "id": "892532bb5b6d01ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aquatic/Plants/Crystalwort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -288,7 +284,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aquatic/Plants/Crystalwort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +300,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aquatic/Plants/Crystalwort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,9 +321,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aquatic/Plants/Crystalwort.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -341,6 +333,7 @@
   },
   "active": "892532bb5b6d01ad",
   "lastOpenFiles": [
+    "Aquatic/Plants/Crystalwort.md",
     "Aquatic/Plants/Plants overview.md",
     "Terrestrial/Plants/Plants overview.md",
     "Terrestrial/Animals/Animals overview.md",
@@ -349,7 +342,6 @@
     "Aquatic/Lighting.md",
     "Aquatic/Containers.md",
     "Aquatic/Basics.md",
-    "Aquatic/Sediment.md",
-    "Aquatic/Water bodies.md"
+    "Aquatic/Sediment.md"
   ]
 }

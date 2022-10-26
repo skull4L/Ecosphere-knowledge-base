@@ -8,3 +8,4 @@ Here is the information you will see on each plant profile:
 >- Edibility - How easy it is for organisms to consume this plant
 
 Additional notes will be also mentioned.
+#plants
