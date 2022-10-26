@@ -2,10 +2,10 @@ Plants are essential aspect of any ecosphere, without them life in a sealed ecos
 
 Most aquatic plants can be used with varying degrees of success, however here you will find a selection of plants that have been specifically tested for their viability for the use in aquatic ecospheres.
 Here is the information you will see on each plant profile:
->- Scientific name - The universal Latin name
->- Growth rate - How fast this plant can push out new growth
->- Lighting - How much light this plant needs to do well
->- Edibility - How easy it is for organisms to consume this plant
+> - Scientific name - The universal Latin name
+> - Growth rate - How fast this plant can push out new growth
+> - Lighting - How much light this plant needs to do well
+> - Edibility - How easy it is for organisms to consume this plant
 
 Additional notes will be also mentioned.
 
