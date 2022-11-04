@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Plants/Plants overview.md",
+                "file": "Content/Plants/Crystalwort.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "892532bb5b6d01ad",
+            "id": "576ee40d9600227d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Basics.md",
+                "file": "Content/Plants/Waterthyme.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,12 +35,8 @@
             "id": "c22bef6d7a52f42f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -131,12 +127,8 @@
             "id": "a85d7be7048f19e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -268,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/Basics.md",
+                "file": "Content/Plants/Waterthyme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/Basics.md",
+                "file": "Content/Plants/Waterthyme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -308,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/Basics.md"
+                "file": "Content/Plants/Waterthyme.md"
               }
             }
           }
@@ -319,17 +311,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "892532bb5b6d01ad",
+  "active": "576ee40d9600227d",
   "lastOpenFiles": [
-    "Home.md",
-    "Content/Basics.md",
-    "Content/Plants/Plants overview.md",
     "Content/Plants/Crystalwort.md",
+    "Content/Plants/Waterthyme.md",
+    "Content/Plants/Plants overview.md",
+    "Attachments/Pasted image 20221026213956.png",
+    "Attachments/Ecology of the Planted Aquarium - Diana Walstad.pdf",
+    "Content/Basics.md",
+    "Home.md",
     "Content/Animals/Animals overview.md",
     "Content/Sourcing organisms.md",
-    "Content/Water bodies.md",
-    "Content/Containers.md",
-    "Terrestrial/Plants/Plants overview.md",
-    "Terrestrial/Animals/Animals overview.md"
+    "Content/Water bodies.md"
   ]
 }
