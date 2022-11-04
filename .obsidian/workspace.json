@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Plants/Plants overview.md",
+                "file": "Content/Plants/Plants overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Plants/Plants overview.md",
+                "file": "Content/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Lighting.md",
+                "file": "Content/Lighting.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,12 +59,8 @@
             "id": "af0d57ba1b824b43",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terrestrial/Soil.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -73,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Lighting.md",
+                "file": "Content/Lighting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Sediment.md",
+                "file": "Content/Sediment.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,12 +91,8 @@
             "id": "aa8c9531923e1ffa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terrestrial/Watering.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -109,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Water bodies.md",
+                "file": "Content/Water bodies.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +113,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Containers.md",
+                "file": "Content/Containers.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,12 +123,8 @@
             "id": "9353dee254732ad8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terrestrial/Containers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -157,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Basics.md",
+                "file": "Content/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Basics.md",
+                "file": "Content/Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aquatic/Plants/Plants overview.md",
+                "file": "Content/Plants/Plants overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -191,24 +179,16 @@
             "id": "28eefcd60ef9ac16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terrestrial/Plants/Plants overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "f1a0213a7bd43c68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terrestrial/Animals/Animals overview.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -288,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aquatic/Plants/Plants overview.md",
+                "file": "Content/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aquatic/Plants/Plants overview.md",
+                "file": "Content/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aquatic/Plants/Plants overview.md"
+                "file": "Content/Basics.md"
               }
             }
           }
@@ -341,15 +321,15 @@
   },
   "active": "892532bb5b6d01ad",
   "lastOpenFiles": [
-    "Aquatic/Plants/Crystalwort.md",
-    "Aquatic/Plants/Plants overview.md",
-    "Aquatic/Basics.md",
-    "Terrestrial/Plants/Plants overview.md",
-    "Terrestrial/Animals/Animals overview.md",
-    "Aquatic/Animals/Animals overview.md",
     "Home.md",
-    "Aquatic/Lighting.md",
-    "Aquatic/Containers.md",
-    "Aquatic/Sediment.md"
+    "Content/Basics.md",
+    "Content/Plants/Plants overview.md",
+    "Content/Plants/Crystalwort.md",
+    "Content/Animals/Animals overview.md",
+    "Content/Sourcing organisms.md",
+    "Content/Water bodies.md",
+    "Content/Containers.md",
+    "Terrestrial/Plants/Plants overview.md",
+    "Terrestrial/Animals/Animals overview.md"
   ]
 }

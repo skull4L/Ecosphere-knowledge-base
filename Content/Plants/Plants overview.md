@@ -9,6 +9,7 @@ Here is the information you will see on each plant profile:
 
 Additional notes will be also mentioned.
 
-## Plant list:
-[[Crystalwort]]
+## Plants:
+
+>[[Crystalwort]]
 

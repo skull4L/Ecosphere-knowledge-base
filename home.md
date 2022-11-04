@@ -8,5 +8,7 @@ Please note that as of writing this is extremely WIP!
 ## Pages to visit:
 
 >[[Resources]]
->[[Aquatic/Basics]]
->[[Terrestrial/Basics]]
+>[[Basics]]
+>[[Animals overview]]
+>[[Plants overview]]
+
