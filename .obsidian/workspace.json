@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Content/Plants/Brazilian waterweed.md",
                 "mode": "source",
                 "source": false
               }
@@ -284,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Content/Plants/Brazilian waterweed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Content/Plants/Brazilian waterweed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,7 +324,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Content/Plants/Brazilian waterweed.md"
               }
             }
           }
@@ -337,6 +337,7 @@
   },
   "active": "accb2b6c191dbe84",
   "lastOpenFiles": [
+    "Untitled.md",
     "Content/Plants/Brazilian waterweed.md",
     "Content/Plants/Waterthyme.md",
     "Content/Plants/Crystalwort.md",
@@ -345,7 +346,6 @@
     "home.md",
     "Attachments/Pasted image 20221026213956.png",
     "Attachments/Ecology of the Planted Aquarium - Diana Walstad.pdf",
-    "Content/Basics.md",
-    "Home.md"
+    "Content/Basics.md"
   ]
 }
