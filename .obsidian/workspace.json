@@ -23,12 +23,8 @@
             "id": "892532bb5b6d01ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -268,7 +264,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +280,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,9 +301,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Content/Basics.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -321,8 +313,8 @@
   },
   "active": "892532bb5b6d01ad",
   "lastOpenFiles": [
-    "Home.md",
     "Content/Basics.md",
+    "Home.md",
     "Content/Plants/Plants overview.md",
     "Content/Plants/Crystalwort.md",
     "Content/Animals/Animals overview.md",
