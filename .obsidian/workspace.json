@@ -47,8 +47,12 @@
             "id": "accb2b6c191dbe84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Content/Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -280,6 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Content/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,6 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Content/Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,7 +323,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Content/Basics.md"
+              }
             }
           }
         ]
@@ -327,7 +335,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bd7623bd7ca8b5a1",
+  "active": "accb2b6c191dbe84",
   "lastOpenFiles": [
     "Content/Plants/Brazilian waterweed.md",
     "Untitled.md",
