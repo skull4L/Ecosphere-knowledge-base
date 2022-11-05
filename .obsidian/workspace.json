@@ -47,12 +47,8 @@
             "id": "accb2b6c191dbe84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content/Plants/Brazilian waterweed.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -284,7 +280,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/Plants/Brazilian waterweed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +296,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/Plants/Brazilian waterweed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,9 +317,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Content/Plants/Brazilian waterweed.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -335,10 +327,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "accb2b6c191dbe84",
+  "active": "bd7623bd7ca8b5a1",
   "lastOpenFiles": [
-    "Untitled.md",
     "Content/Plants/Brazilian waterweed.md",
+    "Untitled.md",
     "Content/Plants/Waterthyme.md",
     "Content/Plants/Crystalwort.md",
     "Content/Plants/Plants overview.md",
