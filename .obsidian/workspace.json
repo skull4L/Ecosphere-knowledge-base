@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content/Plants/Plants overview.md",
+                "file": "Content/Plants/Waterthyme.md",
                 "mode": "source",
                 "source": false
               }
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content/Plants/Plants overview.md",
+                "file": "Content/Plants/Waterthyme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content/Plants/Plants overview.md",
+                "file": "Content/Plants/Waterthyme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content/Plants/Plants overview.md"
+                "file": "Content/Plants/Waterthyme.md"
               }
             }
           }
@@ -320,15 +320,15 @@
   },
   "active": "4ecd18fe9784e43a",
   "lastOpenFiles": [
-    "Content/Basics.md",
-    "Home.md",
     "Content/Plants/Plants overview.md",
     "Content/Plants/Crystalwort.md",
+    "Content/Plants/Brazilian waterweed.md",
+    "Content/Animals/Wandering snails.md",
     "Content/Animals/Animals overview.md",
+    "Content/Basics.md",
+    "Home.md",
     "Content/Sourcing organisms.md",
     "Content/Water bodies.md",
-    "Content/Containers.md",
-    "Terrestrial/Plants/Plants overview.md",
-    "Terrestrial/Animals/Animals overview.md"
+    "Content/Containers.md"
   ]
 }
