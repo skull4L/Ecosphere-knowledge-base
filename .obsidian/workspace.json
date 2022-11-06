@@ -272,6 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Content/Plants/Plants overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,6 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Content/Plants/Plants overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +311,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Content/Plants/Plants overview.md"
+              }
             }
           }
         ]
