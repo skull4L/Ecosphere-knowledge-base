@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ecosphere-knowledge.netlify.app//sitemap.xml

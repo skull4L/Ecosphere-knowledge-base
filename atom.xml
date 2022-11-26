@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title>Ecospheres</title>
+	<link href="https://ecosphere-knowledge.netlify.app/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://ecosphere-knowledge.netlify.app/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2022-11-26T21:05:38.105226+00:00</updated>
+	<id>https://ecosphere-knowledge.netlify.app/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Containers</title>
+		<published>2022-11-26T21:05:38.105226+00:00</published>
+		<updated>2022-11-26T21:05:38.105226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/containers/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/containers/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sourcing Organisms</title>
+		<published>2022-11-26T21:05:38.105226+00:00</published>
+		<updated>2022-11-26T21:05:38.105226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/sourcing-organisms/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/sourcing-organisms/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Resources</title>
+		<published>2022-11-26T21:05:38.105226+00:00</published>
+		<updated>2022-11-26T21:05:38.105226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/resources/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/resources/</id>
+		<content type="html">&lt;p&gt;Detailed below is a small list of useful resources that I would highly recommend checking out!&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1bxCtDIHm70P2uHMgbK7Nw5Ls_k_25RghvD91LrWJaUQ&#x2F;edit?usp=drivesdk&quot;&gt;My beginner-friendly ecosphere guide&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;attachments&#x2F;ecology-of-the-planted-aquarium-diana-walstad.pdf&quot;&gt;Ecology of the Planted Aquarium - Diana Walstad.pdf&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;attachments&#x2F;organism-identification.pdf&quot;&gt;Organism identification.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Animals Overview</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/animals/animals-overview/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/animals/animals-overview/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Wandering Snails</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/animals/wandering-snails/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/animals/wandering-snails/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Basics</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/basics/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/basics/</id>
+		<content type="html">&lt;p&gt;Creating an ecosphere is a relatively simple process, all you really require is a &lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;containers&quot;&gt;suitable container&lt;&#x2F;a&gt; and a &lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;water-bodies&quot;&gt;water body.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;plants&quot;&gt;Plants&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;plants&#x2F;plants-overview&quot;&gt;Plants&lt;&#x2F;a&gt; can be found in most water body, but can alternatively be bought instead, I tend to usually do this as it allows me to use plants that I know work well. However, most native plants will thrive in an ecosphere.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;animals&quot;&gt;Animals&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;animals&#x2F;animals-overview&quot;&gt;Animals&lt;&#x2F;a&gt; can be found as simply as scooping &lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;sediment&quot;&gt;sediment&lt;&#x2F;a&gt; from the bottom of whatever water body you choose to use, for more information on collection techniques please see &lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;sourcing-organisms&quot;&gt;sourcing organisms.&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;simple-creation-steps&quot;&gt;Simple creation steps&lt;&#x2F;h2&gt;
+&lt;p&gt;I prefer to use a jar, but most types of container will do, please see &lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;containers&quot;&gt;containers&lt;&#x2F;a&gt; for more info.&lt;&#x2F;p&gt;
+&lt;p&gt;The first step is to add the sediment to your container, you can assemble your ecosphere in the field or at home, I personally prefer home assemblage as it tends to be less hassle. If going this route, fill 2 separate containers of sediment and water. Try to only take as much sediment as you need, excess sediment should be returned as it is full of animal life. To avoid this issue, you could fill your jar with sediment in the field and add water at home.&lt;br &#x2F;&gt;
+You should only add roughly 4cm (1.5″) of sediment, use a little less for smaller jars and a little more for larger jars, it really depends on the shape of the jar, but you can usually tell by eye when it&#x27;s at a good level, &lt;strong&gt;do be careful however to not use too much, that is a mistake that many beginners make!&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;The next step is to add your plants, most stem plants can be pushed into the wet sediment with tweezers, I would however recommend adding floating plants after adding the water. If using stem plant be sure to push them down to the bottom of the sediment as trying to push them back into the ground once submerged is a nightmare!&lt;&#x2F;p&gt;
+&lt;p&gt;The final step is to add the water, be careful not to add it too quickly as it will cause the sediment to cloud up the container. I recommend slowly pouring the water down the side of the container or slowly siphoning in the water to avoid this issue. Fill the container almost to the top, leaving an air gap to allow for gas exchange. There is no set size for this air gap because every jar is different in shape, however for most containers you can usually make it a little over the length of your thumbprint.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;simple-care&quot;&gt;Simple care&lt;&#x2F;h2&gt;
+&lt;p&gt;For the first few days after creation, I would recommend leaving the lid open, conditions within the ecosphere will be at their most chaotic. The water may be murky, which may limit photosynthesis which could lead to mass die offs which would severely limit the biodiversity of your ecosphere. Keep it in a decently lit window away from direct sunshine, you could also use LED lights which is useful to keep lighting consistent all year round. Please see &lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;lighting&quot;&gt;lighting&lt;&#x2F;a&gt; for more information. Always keep your ecosphere at room temperature, overheating can cause it to collapse. &lt;strong&gt;As a general rule of thumb, the glass should be cool to the touch.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pages-to-visit&quot;&gt;Pages to visit:&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;containers&quot;&gt;Containers&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;lighting&quot;&gt;Lighting&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;sediment&quot;&gt;Sediment&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;sourcing-organisms&quot;&gt;Sourcing organisms&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;water-bodies&quot;&gt;Water bodies&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Lighting</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/lighting/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/lighting/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Brazilian Waterweed</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/plants/brazilian-waterweed/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/plants/brazilian-waterweed/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;docs&#x2F;attachments&#x2F;pasted-image-20221104234025.png&quot; alt=&quot;Pasted image 20221104234025.png&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Scientific name - Egeria Densa&lt;&#x2F;li&gt;
+&lt;li&gt;Growth rate - Medium to Fast&lt;&#x2F;li&gt;
+&lt;li&gt;Lighting - Moderate to high&lt;&#x2F;li&gt;
+&lt;li&gt;Edibility - Moderate&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;notes&quot;&gt;Notes:&lt;&#x2F;h3&gt;
+&lt;p&gt;High rate of photosynthesis, however dies if not exposed to direct sunlight. Readily converts bicarbonates into CO2 which causes acidification of water over time. Despite this I and others have had good success with this plant.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Crystalwort</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/plants/crystalwort/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/plants/crystalwort/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;docs&#x2F;attachments&#x2F;pasted-image-20221026213956.png&quot; alt=&quot;Pasted image 20221026213956.png&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Scientific name - Riccia Fluitans&lt;&#x2F;li&gt;
+&lt;li&gt;Growth rate - Fast&lt;&#x2F;li&gt;
+&lt;li&gt;Lighting - Moderate&lt;&#x2F;li&gt;
+&lt;li&gt;Edibility - Low&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;notes&quot;&gt;Notes:&lt;&#x2F;h3&gt;
+&lt;p&gt;Extremely unique looking plant, tends to float but can be tied to sticks or rocks to prevent this. This plant is a personal favourite of mine and I consider it to be among the best plants for aquatic ecospheres. Its surface growth allows it to access atmospheric CO2 which gives it an advantage against other plants.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Plants Overview</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/plants/plants-overview/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/plants/plants-overview/</id>
+		<content type="html">&lt;p&gt;Plants are essential aspect of any ecosphere, without them life in a sealed ecosystem would not be possible. They oxygenate the water and filter out chemicals such as ammonia, nitrites and nitrates which occur due to the decomposition of organic matter. They also provide food for nearly all the organisms inside and represent the starting point of any food web as they produce their own energy via photosynthesis which can be passed along trophic levels. &lt;&#x2F;p&gt;
+&lt;p&gt;Most aquatic plants can be used with varying degrees of success, however here you will find a selection of plants that have been specifically tested for their viability for the use in aquatic ecospheres.&lt;br &#x2F;&gt;
+Here is the information you will see on each plant profile:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Scientific name - The universal Latin name&lt;&#x2F;li&gt;
+&lt;li&gt;Growth rate - How fast this plant can push out new growth&lt;&#x2F;li&gt;
+&lt;li&gt;Lighting - How much light this plant needs to do well&lt;&#x2F;li&gt;
+&lt;li&gt;Edibility - How easy it is for organisms to consume this plant&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;Additional notes will be also mentioned.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;plants&quot;&gt;Plants:&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;plants&#x2F;crystalwort&quot;&gt;Crystalwort&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Waterthyme</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/plants/waterthyme/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/plants/waterthyme/</id>
+		<content type="html">&lt;p&gt;&lt;img src=&quot;&#x2F;docs&#x2F;attachments&#x2F;pasted-image-20221104232400.png&quot; alt=&quot;Pasted image 20221104232400.png&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Scientific name - Hydrilla Verticillata&lt;&#x2F;li&gt;
+&lt;li&gt;Growth rate - Fast&lt;&#x2F;li&gt;
+&lt;li&gt;Lighting - Low to moderate&lt;&#x2F;li&gt;
+&lt;li&gt;Edibility - Medium&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h3 id=&quot;notes&quot;&gt;Notes:&lt;&#x2F;h3&gt;
+&lt;p&gt;This plant has a particularly high rate of photosynthesis, coupled with its fast growth rate and tolerance for low lighting conditions it is objectively one of best plants which can be used for ecospheres. The plant can be consumed by some species of mollusk such as &lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;animals&#x2F;wandering-snails&quot;&gt;Wandering snails.&lt;&#x2F;a&gt; This seems to be mainly exclusive to new growth. This plant also seems to be resistant to algal blooms.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Sediment</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/sediment/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/sediment/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Water Bodies</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/content/water-bodies/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/content/water-bodies/</id>
+		<content type="html"></content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Home</title>
+		<published>2022-11-26T21:05:38.101226+00:00</published>
+		<updated>2022-11-26T21:05:38.101226+00:00</updated>
+		<link href="https://ecosphere-knowledge.netlify.app/docs/home/" type="text/html"/>
+		<id>https://ecosphere-knowledge.netlify.app/docs/home/</id>
+		<content type="html">&lt;p&gt;Welcome to the ecosphere knowledge base!&lt;br &#x2F;&gt;
+This project is aimed at documenting everything I know about ecospheres through my own experiments, research and knowledge of others. I hope you find this place useful!&lt;&#x2F;p&gt;
+&lt;p&gt;If you are interested in contributing to this project or just have an interest in ecospheres in general, &lt;a href=&quot;https:&#x2F;&#x2F;discord.gg&#x2F;VUkMhjbcDV&quot;&gt;join our official discord server!&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Please note that as of writing this is extremely WIP!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;pages-to-visit&quot;&gt;Pages to visit:&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;&#x2F;docs&#x2F;resources&quot;&gt;Resources&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;basics&quot;&gt;Basics&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;animals&#x2F;animals-overview&quot;&gt;Animals overview&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;&#x2F;docs&#x2F;content&#x2F;plants&#x2F;plants-overview&quot;&gt;Plants overview&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+	</entry>
+</feed>
